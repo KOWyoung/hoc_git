@@ -1,4 +1,4 @@
 funtion()
 {
-  const vinh
+  const vinh = vvv
 }
